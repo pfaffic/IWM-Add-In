@@ -4,6 +4,9 @@ Add-In für Excel um die von ActiTime generierte Datei "Staffoutput.csv" einfach
 #Installation
 Zum Installieren des Add-Ins den Setup Ordner Downloaden. Die Setup.exe ausführen. Fertig.
 
+#Getestete Versionen
+  Excel 365
+
 #Benutzung
   1. Generiere eine "Staffoutput.csv" Datei mit ActiTIME und lade diese herunter.
   2. Speichere die Datei auf deinem Rechner.
