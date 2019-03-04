@@ -1,0 +1,16 @@
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\StaffoutputAddIn.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\StaffoutputAddIn.pdb
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\StaffoutputAddIn.dll.manifest
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\StaffoutputAddIn.vsto
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\Microsoft.Office.Tools.Excel.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Debug\StaffoutputAddIn.csprojResolveAssemblyReference.cache
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Debug\StaffoutputAddIn.Properties.Resources.resources
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Debug\StaffoutputAddIn.Ribbon1.resources
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Debug\StaffoutputAddIn.csproj.GenerateResource.Cache
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Debug\StaffoutputAddIn.dll
+c:\users\chris\onedrive\dokumente\visual studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Debug\StaffoutputAddIn.pdb
