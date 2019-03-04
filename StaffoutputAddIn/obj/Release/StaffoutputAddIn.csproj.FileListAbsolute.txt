@@ -14,3 +14,5 @@ C:\Users\chris\OneDrive\Dokumente\Visual Studio 2015\Projects\StaffoutputAddIn\S
 C:\Users\chris\OneDrive\Dokumente\Visual Studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Release\StaffoutputAddIn.dll
 C:\Users\chris\OneDrive\Dokumente\Visual Studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Release\StaffoutputAddIn.pdb
 C:\Users\chris\OneDrive\Dokumente\Visual Studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\obj\Release\StaffoutputAddIn.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Dokumente\Visual Studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Release\StaffoutputAddIn.dll.CodeAnalysisLog.xml
+C:\Users\chris\OneDrive\Dokumente\Visual Studio 2015\Projects\StaffoutputAddIn\StaffoutputAddIn\bin\Release\StaffoutputAddIn.dll.lastcodeanalysissucceeded
